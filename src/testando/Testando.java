@@ -16,6 +16,7 @@ public class Testando {
      */
     public static void main(String[] args) {
         //teste de atualização
+        System.out.println("edu");
         System.out.println("Olá Mundo");
     }
     
